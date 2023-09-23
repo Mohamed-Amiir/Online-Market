@@ -1,0 +1,11 @@
+﻿  cart_item.cpp
+  customer.cpp
+D:\Studying\finalpractical\finalpractical\finalpractical\customer.cpp(37,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  market_handler.cpp
+  product.cpp
+  seller.cpp
+  Source.cpp
+  Generating Code...
+D:\Studying\finalpractical\finalpractical\finalpractical\market_handler.cpp(92): warning C4715: 'market_handler::login_cust': not all control paths return a value
+D:\Studying\finalpractical\finalpractical\finalpractical\market_handler.cpp(226): warning C4715: 'market_handler::login_seller': not all control paths return a value
+  finalpractical.vcxproj -> D:\Studying\finalpractical\finalpractical\x64\Debug\finalpractical.exe
